@@ -9,8 +9,6 @@ public class MainBook {
         System.out.println(book);
         System.out.println(book1);
         System.out.println(book2);
-
-
     }
 }
 
